@@ -1,0 +1,12 @@
+[
+    {
+        "input": "2\n3 9\n17 24\n",
+        "expected_output": "2\n0\n",
+        "name": "HK Test Case 8"
+    },
+    {
+        "input": "2\n35 70\n100 1000\n",
+        "expected_output": "3\n22",
+        "name": "HK Test Case 9"
+    }
+]
