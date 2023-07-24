@@ -15,7 +15,7 @@
 ## Project Preparation
 ## Project Structure
 ## Dependencies 
-![Logo](70_Documentation/00_ReadmeFiles/LOGO_Python32.svg)
+![Logo](70_Documentation/00_ReadmeFiles/LOGO_Python3.svg)
 ![Logo](70_Documentation/00_ReadmeFiles/LOGO_mingw.svg)
 
 ## Tests
