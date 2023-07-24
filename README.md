@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <br/>
-<h2 align="center"> Test Framework for HackerRank problems  </h2>
+<h3 align="center"> Test Framework for HackerRank problems  </h3>
 <br/>
 <br/>
 <br/>
