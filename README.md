@@ -1,7 +1,10 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
+    <img src="70_Documentation/00_ReadmeFiles/hk.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/cpp.png" alt="Logo" width="100" height="100">
+    <img src="70_Documentation/00_ReadmeFiles/py.png" alt="Logo" width="100" height="100">
+
   </a>
 
 <h3 align="center"> HK_202307_Sherlock_and_Squares  </h3>
