@@ -1,21 +1,24 @@
 <!-- PROJECT LOGO -->
 <br/>
+<br/>
+<br/>
 <div align="center">
     <img src="70_Documentation/00_ReadmeFiles/hk.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/cpp.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/py.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/mingw.png" alt="Logo" width="100" height="100">
-
   </a>
-
-<h3 align="center"> HK_202307_Sherlock_and_Squares  </h3>
+<br/>
+<br/>
+<br/>
+<h2 align="center"> Test Framework for HackerRank problems  </h2>
+<h3 align="center">  </h3>
+<h3 align="center"> Sherlock_and_Squares  </h3>
 </div>
-
-
-![Logo](70_Documentation/00_ReadmeFiles/pic1.png)
-![Logo](70_Documentation/00_ReadmeFiles/gif2.gif)
 <!-- TABLE OF CONTENTS -->
 ## Project Use
+![Logo](70_Documentation/00_ReadmeFiles/pic1.png)
+![Logo](70_Documentation/00_ReadmeFiles/pic2.png)
 ## Project Preparation
 ## Project Structure
 ## Dependencies 
