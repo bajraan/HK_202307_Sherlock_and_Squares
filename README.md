@@ -7,7 +7,7 @@
     <img src="70_Documentation/00_ReadmeFiles/cpp.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/py.png" alt="Logo" width="100" height="100">
     <img src="70_Documentation/00_ReadmeFiles/mingw.png" alt="Logo" width="100" height="100">
-  </a>
+</div>
 <br/>
 <br/>
 <br/>
@@ -19,7 +19,9 @@
 <br/>
 <br/>
 <br/>
-</div>
+
+
+
 <!-- TABLE OF CONTENTS -->
 ## Project Use
 ![Logo](70_Documentation/00_ReadmeFiles/pic1.png)
